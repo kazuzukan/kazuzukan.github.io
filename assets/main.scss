@@ -115,7 +115,7 @@ footer {
 @media (min-width: 480px) {
 	/* wrapper stays 480px wide past 480px wide and is kept centered */
 	.wrapper {
-		width: 480px;
+		width: 1000px;
 		margin: 10% auto 0 auto;
 	}
 }
@@ -125,7 +125,7 @@ footer {
 	/* past 768px the layout is changed and the wrapper has a fixed width of 680px
 	to accomodate both the header column and the content column */
 	.wrapper {
-		width: 680px;
+		width: 1000px;
 	}
 
 	/* the header column stays left and has a dynamic width with all contents
